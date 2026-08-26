@@ -2,8 +2,8 @@
 
 Hourly-refreshing dashboard of CDEC instantaneous flow (cfs) and river stage (ft) for 11 gauging stations relevant to the Vina Subbasin.
 
-**Live:** https://cosmo1007.github.io/vina-flow-dashboard/
-**Refresh on demand:** [Run the workflow on GitHub Actions](https://github.com/cosmo1007/vina-flow-dashboard/actions/workflows/refresh.yml).
+**Live:** https://agubc-vina.github.io/vina-flow-dashboard/
+**Refresh on demand:** [Run the workflow on GitHub Actions](https://github.com/AGUBC-vina/vina-flow-dashboard/actions/workflows/refresh.yml).
 
 ## Stations
 
